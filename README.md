@@ -1,3 +1,4 @@
-# Lama Dev Chat App Starter template
+# Full Stack React Messenger Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This is a full stack messenger application created on react with reference to [THIS VIDEO](https://youtu.be/domt_Sx-wTY?si=kQbK6MELwS9eqeaY).
+
