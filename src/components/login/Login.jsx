@@ -9,7 +9,7 @@ import {
 import {
   auth,
   db,
-} from "C:\\Users\\notce\\OneDrive\\Desktop\\React Chat App\\src\\lib/firebase";
+} from "../../lib/firebase";
 import { doc, setDoc } from "firebase/firestore";
 import upload from "../../lib/upload";
 
